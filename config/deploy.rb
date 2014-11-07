@@ -1,5 +1,5 @@
 set :application, 'my_app_name'
-set :repo_url, 'https://github.com/blinkpi/ribed.git'
+set :repo_url, 'https://github.com/blinkpi/exribed.git'
 
 # Branch options
 # Prompts for the branch name (defaults to current branch)
